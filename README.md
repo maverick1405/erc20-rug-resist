@@ -6,7 +6,7 @@ RugResist ($RGRS) is a decentralized ERC-20 token.
 
 ✅ ERC-20 Compliant – Standard token structure for seamless integration.
 
-Smart Contract Details
+**Smart Contract Details**
 
 Token Name: RugResist
 
