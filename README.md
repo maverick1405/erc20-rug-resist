@@ -1,66 +1,19 @@
-## Foundry
+RugResist (RGRS) ERC-20 Token
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
+RugResist ($RGRS) is a decentralized ERC-20 token.
 
-Foundry consists of:
+Features
 
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
+✅ ERC-20 Compliant – Standard token structure for seamless integration.
 
-## Documentation
+Smart Contract Details
 
-https://book.getfoundry.sh/
+Token Name: RugResist
 
-## Usage
+Symbol: RGRS
 
-### Build
+Decimals: 18
 
-```shell
-$ forge build
-```
+Total Supply: 100000 RGRS
 
-### Test
-
-```shell
-$ forge test
-```
-
-### Format
-
-```shell
-$ forge fmt
-```
-
-### Gas Snapshots
-
-```shell
-$ forge snapshot
-```
-
-### Anvil
-
-```shell
-$ anvil
-```
-
-### Deploy
-
-```shell
-$ forge script script/Counter.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
-```
-
-### Cast
-
-```shell
-$ cast <subcommand>
-```
-
-### Help
-
-```shell
-$ forge --help
-$ anvil --help
-$ cast --help
-```
+Blockchain: Ethereum (Sepolia Testnet)
